@@ -1,0 +1,2 @@
+class MerchantNotFoundException(Exception):
+    pass

@@ -1,0 +1,2 @@
+class InvalidAmountExcepion(Exception):
+    pass

@@ -1,0 +1,2 @@
+class InvalidCreditLimitException(Exception):
+    pass

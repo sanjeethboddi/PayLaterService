@@ -1,0 +1,2 @@
+class LowCreditException(Exception):
+    pass
